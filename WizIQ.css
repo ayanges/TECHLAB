@@ -18,14 +18,26 @@ span{
     color : blue;
 }
 
-.RD{
-    
+.RD{  
     padding: 8px 43px;
     border-radius: 20px;
     color: white;
     background-color: #f78200;
     align-content: center;
     font-size: 1.2em;
+}
+.rd{  
+    padding: 8px 43px;
+    border-radius: 20px;
+    color: white;
+    background-color: #f78200;
+    align-content: center;
+    font-size: 1.2em;
+    margin-top: 100px;
+}
+.RD:hover{
+    opacity: 0.9;   
+
 }
 
 a{
@@ -268,8 +280,13 @@ border-radius: 45px;
             font-size: x-small;
             margin-bottom: 20px;
             margin-right: 9px;
-            list-style: none;
-    
+          list-style: none;
+
+        }
+
+        .logo{
+            width: 410px;
+            margin-left: -30%;
         }
 
         
